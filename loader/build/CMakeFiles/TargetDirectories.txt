@@ -1,0 +1,9 @@
+C:/!PROGRAMMING/KOREOS/2018-10-16/src/boot/loader/build/CMakeFiles/TARGET1.dir
+C:/!PROGRAMMING/KOREOS/2018-10-16/src/boot/loader/build/CMakeFiles/entry.dir
+C:/!PROGRAMMING/KOREOS/2018-10-16/src/boot/loader/build/CMakeFiles/TARGET2.dir
+C:/!PROGRAMMING/KOREOS/2018-10-16/src/boot/loader/build/CMakeFiles/loader.dir
+C:/!PROGRAMMING/KOREOS/2018-10-16/src/boot/loader/build/CMakeFiles/TARGET3.dir
+C:/!PROGRAMMING/KOREOS/2018-10-16/src/boot/loader/build/CMakeFiles/TARGET4.dir
+C:/!PROGRAMMING/KOREOS/2018-10-16/src/boot/loader/build/CMakeFiles/TARGET5.dir
+C:/!PROGRAMMING/KOREOS/2018-10-16/src/boot/loader/build/CMakeFiles/edit_cache.dir
+C:/!PROGRAMMING/KOREOS/2018-10-16/src/boot/loader/build/CMakeFiles/rebuild_cache.dir
